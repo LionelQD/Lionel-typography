@@ -4,47 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf2abda8cc4a032",
+        "id": "57b5b5ea305bcc47",
         "type": "tabs",
         "children": [
           {
-            "id": "b0630528e7598fb2",
+            "id": "027afc1f88f8d7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node_modules/@astrojs/mdx/README.md",
+                "file": "Templates/模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "模板"
             }
           },
           {
-            "id": "5d07e1e70f6dcf32",
+            "id": "33bc09067992e601",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/Hello.md",
+                "file": "Templates/模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "模板"
             }
           },
           {
-            "id": "71115e82981e2ece",
+            "id": "78971cd992c236a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png"
+                "file": "src/content/posts/模版测试.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cleanshot-2025-12-30-10-52-42-2x"
+              "icon": "lucide-file",
+              "title": "模版测试"
             }
           }
         ],
@@ -105,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c340332ec79e067a",
@@ -198,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png"
+                "file": "src/content/posts/模版测试.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -226,16 +228,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "61bc04b37314bbe5",
+  "active": "78971cd992c236a4",
   "lastOpenFiles": [
+    "src/content/posts/images/CleanShot 2025-12-30 at 20.40.15@2x.png",
+    "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
     "src/content/posts/模版测试.md",
-    "src/content/posts/Hello.md",
     "Templates/模板.md",
+    "src/content/posts/Hello.md",
+    "src/content/posts/测试.md",
     "node_modules/@astrojs/mdx/README.md",
+    "README.md",
+    "src/content/posts/2025-12-30.md",
     "Templates",
     "未命名文件夹",
     "src/content/posts/未命名.base",
-    "README.md",
     "node_modules/@github/clipboard-copy-element/dist/clipboard-copy-element.d.ts",
     "node_modules/@github/clipboard-copy-element/dist/index.d.ts",
     "node_modules/@github/clipboard-copy-element/dist/index.js",
@@ -260,12 +266,7 @@
     "node_modules/typescript/README.md",
     "node_modules/vite-plugin-devtools-json/README.md",
     "node_modules/sanitize-html/README.md",
-    "node_modules/unocss-preset-theme/README.md",
-    "node_modules/eslint-plugin-astro/README.md",
-    "node_modules/tsx/README.md",
-    "node_modules/unocss/README.md",
     "src/content/posts/images/CleanShot 2025-12-30 at 10.52.42@2x.png",
-    "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
     "public/uploads/CleanShot 2025-12-30 at 10.36.29@2x.png",
     "public/uploads/CleanShot 2025-12-30 at 10.15.34@2x.png",
     "public/uploads/CleanShot 2025-12-30 at 10.30.08@2x.png"
