@@ -4,5 +4,6 @@
   "obsidian-hover-editor",
   "templater-obsidian",
   "obsidian-paste-image-rename",
-  "github-sync"
+  "github-sync",
+  "obsidian-linter"
 ]
