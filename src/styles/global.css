@@ -20,18 +20,18 @@ html {
   --at-apply: 'ease-in-out duration-300ms';
   --at-apply: 'hover:(c-background bg-primary decoration-primary)';
 }
-/* 强制修复深色模式下的文字颜色 */
-:root.dark body,
-:root.dark article,
-html.dark body {
-  color: #ffffff !important; /* 强制变成灰白色 */
+/* 修复深色模式下的链接和标签颜色 */
+:root.dark a,
+:root.dark a:hover,
+:root.dark .link,
+html.dark a {
+  color: #ffffff !important; /* 或者你可以改成 #e2e8f0 这种亮灰色 */
+  text-decoration-color: #ffffff !important; /* 下划线也变白 */
 }
 
-:root.dark h1, 
-:root.dark h2, 
-:root.dark h3, 
-:root.dark h4, 
-:root.dark h5, 
-:root.dark h6 {
-  color: #ffffff !important; /* 标题强制纯白 */
+/* 如果标签有特定的 class，也可以专门加固一下 */
+:root.dark .category,
+:root.dark .tag {
+  color: #ffffff !important;
+  opacity: 0.9; /* 稍微淡一点点更有质感 */
 }
