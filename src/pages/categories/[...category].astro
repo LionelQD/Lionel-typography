@@ -35,9 +35,9 @@ function getListItems(posts: Post[]) {
         getListItems(posts).map(({ title, href, date }) => (
           <li>
             <h3 class="post-title">
-              <a href={href}>{title}</a>
+              <a class="c-primary" href={href}>{title}</a>
             </h3>
-            <time>{date}</time>
+            <time class="c-primary">{date}</time>
           </li>
         ))
       }
