@@ -35,18 +35,18 @@ html.dark a {
   color: #ffffff !important;
   opacity: 0.9; /* 稍微淡一点点更有质感 */
 }
-/* 修复日期、摘要和次要信息的深色模式颜色 */
-:root.dark .date,
-:root.dark .publish-date,
-:root.dark .time,
-:root.dark .description,
-:root.dark .post-item p,
-:root.dark header span {
-  color: #a3a3a3 !important; /* 稍微灰一点的白色，区分层级 */
+/* 终极修复：日期、时间、摘要、辅助信息 */
+:root.dark time,
+:root.dark .opacity-50,
+:root.dark .text-opacity-50,
+:root.dark article span,
+:root.dark .post-item span,
+:root.dark .post-item div {
+  color: #a3a3a3 !important; /* 强制浅灰色 */
+  opacity: 1 !important;      /* 强制取消透明度，防止字变得太暗 */
 }
 
-/* 强制让列表里所有的段落变白 */
-:root.dark main p,
-:root.dark .content p {
-  color: #e5e5e5 !important;
+/* 专门针对“发布于”这种文字 */
+:root.dark .text-75 {
+    color: #a3a3a3 !important;
 }
