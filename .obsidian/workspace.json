@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "57b5b5ea305bcc47",
+        "id": "bcc6f00e1b0e175c",
         "type": "tabs",
         "children": [
           {
-            "id": "027afc1f88f8d7ff",
+            "id": "57d3425eae1a6eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/模板.md",
+                "file": "src/content/posts/自由意志和自我认同.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模板"
-            }
-          },
-          {
-            "id": "33bc09067992e601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/模板.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "模板"
-            }
-          },
-          {
-            "id": "78971cd992c236a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/posts/模版测试.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "模版测试"
+              "title": "自由意志和自我认同"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -200,7 +171,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "src/content/posts/模版测试.md"
+                "file": "src/content/posts/自由意志和自我认同.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -227,13 +198,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "61bc04b37314bbe5",
+  "active": "57d3425eae1a6eab",
   "lastOpenFiles": [
     "src/content/posts/images/CleanShot 2025-12-30 at 20.40.15@2x.png",
-    "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
+    "src/content/posts/自由意志和自我认同.md",
+    "src/content/posts/Hello.md",
     "src/content/posts/模版测试.md",
     "Templates/模板.md",
-    "src/content/posts/Hello.md",
+    "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
     "src/content/posts/测试.md",
     "node_modules/@astrojs/mdx/README.md",
     "README.md",
