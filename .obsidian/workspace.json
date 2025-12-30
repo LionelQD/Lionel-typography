@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "0c05586f0ea00f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf2abda8cc4a032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0630528e7598fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/posts/Hello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afa6e41c96207d94",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ef1fb74fc8f491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61bc04b37314bbe5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "130ef72f2ac54c58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "769a6a8e15cd0f52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c340332ec79e067a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9db3d8d0e30d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c7ddbe9bf910dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/posts/Hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Hello 的反向链接列表"
+            }
+          },
+          {
+            "id": "f1b81e685901bd1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/content/posts/Hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Hello 的出链列表"
+            }
+          },
+          {
+            "id": "2257ffc28da899a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bfe7505f6e248f6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8b608fd123d6954d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/posts/Hello.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Hello 的大纲"
+            }
+          },
+          {
+            "id": "b809db5cd06a1fce",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "src/content/posts/Hello.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "f25607e47fc8472e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:发布更改": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b0630528e7598fb2",
+  "lastOpenFiles": [
+    "src/content/posts/images/CleanShot 2025-12-30 at 10.52.42@2x.png",
+    "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
+    "src/content/posts/Hello.md",
+    "src/content/posts/images",
+    "public/uploads/CleanShot 2025-12-30 at 10.36.29@2x.png",
+    "public/uploads/CleanShot 2025-12-30 at 10.15.34@2x.png",
+    "public/uploads/CleanShot 2025-12-30 at 10.30.08@2x.png",
+    "public/uploads",
+    "public/未命名文件夹"
+  ]
+}
