@@ -20,3 +20,36 @@ html {
   --at-apply: 'ease-in-out duration-300ms';
   --at-apply: 'hover:(c-background bg-primary decoration-primary)';
 }
+
+/* Ensure prose content and its descendants use theme primary color and respect dark mode */
+.prose,
+.prose p,
+.prose li,
+.prose blockquote,
+.prose h1,
+.prose h2,
+.prose h3,
+.prose a,
+.prose code,
+.prose pre {
+  color: var(--uno-colors-primary) !important;
+}
+
+html.dark {
+  /* dark mode overrides (kept minimal and explicit) */
+  --uno-colors-primary: #FFFFFF;
+  --uno-colors-background: #232222;
+}
+
+html.dark .prose,
+html.dark .prose p,
+html.dark .prose li,
+html.dark .prose blockquote,
+html.dark .prose h1,
+html.dark .prose h2,
+html.dark .prose h3,
+html.dark .prose a,
+html.dark .prose code,
+html.dark .prose pre {
+  color: var(--uno-colors-primary) !important;
+}
