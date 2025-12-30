@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/Hello.md",
+                "file": "node_modules/@astrojs/mdx/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "README"
             }
           }
         ]
@@ -171,24 +171,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "src/content/posts/Hello.md"
+                "file": "node_modules/@astrojs/mdx/README.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
-          },
-          {
-            "id": "f25607e47fc8472e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,7 +186,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:发布更改": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -205,11 +194,17 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "b0630528e7598fb2",
   "lastOpenFiles": [
+    "src/content/posts/未命名.base",
+    "node_modules/@astrojs/mdx/README.md",
+    "README.md",
+    "src/content/posts/Hello.md",
     "node_modules/@github/clipboard-copy-element/dist/clipboard-copy-element.d.ts",
     "node_modules/@github/clipboard-copy-element/dist/index.d.ts",
     "node_modules/@github/clipboard-copy-element/dist/index.js",
@@ -219,9 +214,7 @@
     "node_modules/@github/clipboard-copy-element/dist/clipboard-copy-element-define.js",
     "node_modules/@github/clipboard-copy-element/dist/clipboard-copy-element-define.d.ts",
     "node_modules/@github/clipboard-copy-element/dist/bundle.js",
-    "node_modules/@github/clipboard-copy-element/package.json",
     "node_modules/@github/clipboard-copy-element/README.md",
-    "node_modules/@github/clipboard-copy-element/dist",
     "node_modules/remark-math/readme.md",
     "node_modules/rehype-katex/readme.md",
     "node_modules/giscus/README.md",
@@ -233,7 +226,6 @@
     "node_modules/@swup/astro/README.md",
     "node_modules/@astrojs/rss/README.md",
     "node_modules/@astrojs/sitemap/README.md",
-    "node_modules/@astrojs/mdx/README.md",
     "node_modules/@astrojs/check/README.md",
     "node_modules/typescript/SECURITY.md",
     "node_modules/typescript/README.md",
@@ -244,8 +236,6 @@
     "node_modules/tsx/README.md",
     "node_modules/unocss/README.md",
     "node_modules/simple-git-hooks/README.md",
-    "node_modules/prettier-plugin-astro/README.md",
-    "node_modules/markdown-it/README.md",
     "src/content/posts/images/CleanShot 2025-12-30 at 10.52.42@2x.png",
     "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
     "public/uploads/CleanShot 2025-12-30 at 10.36.29@2x.png",
