@@ -39,14 +39,12 @@
             "id": "71115e82981e2ece",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "src/content/posts/模版测试.md",
-                "mode": "source",
-                "source": false
+                "file": "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png"
               },
-              "icon": "lucide-file",
-              "title": "模版测试"
+              "icon": "lucide-image",
+              "title": "cleanshot-2025-12-30-10-52-42-2x"
             }
           }
         ],
@@ -200,7 +198,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "src/content/posts/模版测试.md"
+                "file": "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -228,10 +226,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "71115e82981e2ece",
+  "active": "61bc04b37314bbe5",
   "lastOpenFiles": [
-    "src/content/posts/Hello.md",
     "src/content/posts/模版测试.md",
+    "src/content/posts/Hello.md",
     "Templates/模板.md",
     "node_modules/@astrojs/mdx/README.md",
     "Templates",
