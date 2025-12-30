@@ -24,7 +24,7 @@ html {
 :root.dark body,
 :root.dark article,
 html.dark body {
-  color: #e5e5e5 !important; /* 强制变成灰白色 */
+  color: #ffffff !important; /* 强制变成灰白色 */
 }
 
 :root.dark h1, 
