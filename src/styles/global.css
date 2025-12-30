@@ -22,7 +22,7 @@ html {
 }
 /* 增加标题下划线与文字之间的间距 */
 .post-title a {
-  text-underline-offset: 0.2em;      /* 或者用 0.25em，按视觉调整 */
+  text-underline-offset: 0.4em;      /* 或者用 0.25em，按视觉调整 */
   text-decoration-thickness: 0.1em; /* 可选：保持线条粗细 */
 }
 /* Ensure prose content and its descendants use theme primary color and respect dark mode */

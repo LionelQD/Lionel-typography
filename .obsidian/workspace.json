@@ -223,12 +223,11 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "78971cd992c236a4",
+  "active": "61bc04b37314bbe5",
   "lastOpenFiles": [
     "src/content/posts/images/CleanShot 2025-12-30 at 20.40.15@2x.png",
     "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
