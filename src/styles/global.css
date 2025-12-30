@@ -35,3 +35,18 @@ html.dark a {
   color: #ffffff !important;
   opacity: 0.9; /* 稍微淡一点点更有质感 */
 }
+/* 修复日期、摘要和次要信息的深色模式颜色 */
+:root.dark .date,
+:root.dark .publish-date,
+:root.dark .time,
+:root.dark .description,
+:root.dark .post-item p,
+:root.dark header span {
+  color: #a3a3a3 !important; /* 稍微灰一点的白色，区分层级 */
+}
+
+/* 强制让列表里所有的段落变白 */
+:root.dark main p,
+:root.dark .content p {
+  color: #e5e5e5 !important;
+}
