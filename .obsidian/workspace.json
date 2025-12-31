@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/posts/Hello.md",
+                "file": "src/content/posts/自由意志和自我认同.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Hello 的大纲"
+              "title": "自由意志和自我认同 的大纲"
             }
           },
           {
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
