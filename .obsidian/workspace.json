@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/posts/Hello.md",
+                "file": "src/content/posts/自由意志和自我认同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hello 的反向链接列表"
+              "title": "自由意志和自我认同 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/posts/Hello.md",
+                "file": "src/content/posts/自由意志和自我认同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Hello 的出链列表"
+              "title": "自由意志和自我认同 的出链列表"
             }
           },
           {
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,7 +198,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57d3425eae1a6eab",
+  "active": "2257ffc28da899a0",
   "lastOpenFiles": [
     "未命名.canvas",
     "src/content/posts/自由意志和自我认同.md",

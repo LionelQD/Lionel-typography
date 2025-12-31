@@ -1,7 +1,7 @@
 {
   "lastVersion": "3.1.18",
   "aestheticStyle": "default",
-  "positionStyle": "following",
+  "positionStyle": "top",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
