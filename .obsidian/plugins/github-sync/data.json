@@ -2,6 +2,6 @@
   "remoteURL": "https://github.com/LionelQD/Lionel-typography.git",
   "gitLocation": "",
   "syncinterval": 10,
-  "isSyncOnLoad": true,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
