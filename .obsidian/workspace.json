@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc6f00e1b0e175c",
+        "id": "d766f9cca4c05d53",
         "type": "tabs",
         "children": [
           {
-            "id": "57d3425eae1a6eab",
+            "id": "431cc4270ea9e869",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/posts/自由意志和自我认同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "自由意志和自我认同 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/posts/自由意志和自我认同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "自由意志和自我认同 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/posts/自由意志和自我认同.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自由意志和自我认同 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -170,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "src/content/posts/自由意志和自我认同.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -199,14 +194,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57d3425eae1a6eab",
+  "active": "61bc04b37314bbe5",
   "lastOpenFiles": [
-    "src/content/posts/images/CleanShot 2025-12-31 at 18.00.13@2x.png",
+    "src/content/posts/自由意志和自我认同.md",
     "src/content/posts/images/CleanShot 2025-12-31 at 17.59.59@2x.png",
+    "src/content/posts/images/CleanShot 2025-12-31 at 18.00.13@2x.png",
+    "src/content/posts/images/Pasted image 20251231175040.png",
     "src/content/posts/images/Pasted image 20251231175020.png",
     "src/content/posts/images/Pasted image 20251231174954.png",
-    "src/content/posts/images/Pasted image 20251231175040.png",
-    "src/content/posts/自由意志和自我认同.md",
     "未命名.canvas",
     "src/content/posts/images/CleanShot 2025-12-30 at 20.40.15@2x.png",
     "src/content/posts/Hello.md",
@@ -246,7 +241,6 @@
     "node_modules/sanitize-html/README.md",
     "src/content/posts/images/CleanShot 2025-12-30 at 10.52.42@2x.png",
     "public/uploads/CleanShot 2025-12-30 at 10.36.29@2x.png",
-    "public/uploads/CleanShot 2025-12-30 at 10.15.34@2x.png",
-    "public/uploads/CleanShot 2025-12-30 at 10.30.08@2x.png"
+    "public/uploads/CleanShot 2025-12-30 at 10.15.34@2x.png"
   ]
 }
