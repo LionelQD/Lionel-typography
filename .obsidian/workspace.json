@@ -11,14 +11,17 @@
             "id": "431cc4270ea9e869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "src/content/posts/自由意志和自我认同.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "自由意志和自我认同"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -196,13 +199,14 @@
   },
   "active": "431cc4270ea9e869",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "node_modules/giscus/README.md",
     "src/content/posts/自由意志和自我认同.md",
     "src/content/posts/images/CleanShot 2025-12-31 at 17.59.59@2x.png",
     "src/content/posts/images/CleanShot 2025-12-31 at 18.00.13@2x.png",
     "src/content/posts/images/Pasted image 20251231175040.png",
     "src/content/posts/images/Pasted image 20251231175020.png",
     "src/content/posts/images/Pasted image 20251231174954.png",
-    "未命名.canvas",
     "src/content/posts/images/CleanShot 2025-12-30 at 20.40.15@2x.png",
     "src/content/posts/Hello.md",
     "src/content/posts/模版测试.md",
@@ -225,7 +229,6 @@
     "node_modules/@github/clipboard-copy-element/README.md",
     "node_modules/remark-math/readme.md",
     "node_modules/rehype-katex/readme.md",
-    "node_modules/giscus/README.md",
     "node_modules/astro-seo/README.md",
     "node_modules/astro-robots-txt/README.md",
     "node_modules/lint-staged/README.md",
