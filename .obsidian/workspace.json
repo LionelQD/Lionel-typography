@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "第001期｜一个人为什么总想做出特别的东西"
             }
+          },
+          {
+            "id": "a7f65accfe2c6466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/posts/第002期｜懂事太早的人，后来都在补一门课.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第002期｜懂事太早的人，后来都在补一门课"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2e9d20f3c68c38cf",
+  "active": "a7f65accfe2c6466",
   "lastOpenFiles": [
-    "未命名.canvas",
     "src/content/posts/第001期｜一个人为什么总想做出特别的东西.md",
+    "src/content/posts/第002期｜懂事太早的人，后来都在补一门课.md",
+    "未命名.canvas",
     "src/content/posts/images/Pasted image 20251231175040.png",
     "src/content/posts/images/CleanShot 2025-12-31 at 18.00.13@2x.png",
     "src/content/posts/images/CleanShot 2025-12-31 at 17.59.59@2x.png",
