@@ -34,37 +34,9 @@
               "icon": "lucide-file",
               "title": "第001期｜一个人为什么总想做出特别的东西"
             }
-          },
-          {
-            "id": "95da8561d7788bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/posts/第003期｜为什么有些人一旦离开组织，就突然失去了自己的重量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第003期｜为什么有些人一旦离开组织，就突然失去了自己的重量"
-            }
-          },
-          {
-            "id": "d1dc7f450d9f3166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/posts/第002期｜懂事太早的人，后来都在补一门课.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第002期｜懂事太早的人，后来都在补一门课"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,13 +209,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d1dc7f450d9f3166",
+  "active": "a7f65accfe2c6466",
   "lastOpenFiles": [
-    "src/content/posts/第001期｜一个人为什么总想做出特别的东西.md",
-    "src/content/posts/第003期｜为什么有些人一旦离开组织，就突然失去了自己的重量.md",
-    "src/content/spec/about.md",
-    "src/content/posts/第002期｜懂事太早的人，后来都在补一门课.md",
+    "src/content/draft/第002期｜懂事太早的人，后来都在补一门课.md",
+    "README.md",
+    "src/content/draft",
     "未命名.canvas",
+    "src/content/draft/第003期｜为什么有些人一旦离开组织，就突然失去了自己的重量.md",
+    "src/content/posts/未命名.base",
+    "src/content/posts/第001期｜一个人为什么总想做出特别的东西.md",
+    "src/content/spec/about.md",
     "src/content/posts/images/Pasted image 20251231175040.png",
     "src/content/posts/images/CleanShot 2025-12-31 at 18.00.13@2x.png",
     "src/content/posts/images/CleanShot 2025-12-31 at 17.59.59@2x.png",
@@ -262,8 +237,6 @@
     "dist/index.html",
     "dist/posts/第001期一个人为什么总想做出特别的东西/index.html",
     "dist/posts/第001期一个人为什么总想做出特别的东西",
-    "dist/posts",
-    "dist/categories/杂谈/index.html",
     "dist/favicon.svg",
     "dist/typograph-og.jpg",
     "dist/placeholder.png",
@@ -277,14 +250,12 @@
     "src/content/posts/images/cleanshot-2025-12-30-10-52-42-2x.png",
     "src/content/posts/测试.md",
     "node_modules/@astrojs/mdx/README.md",
-    "README.md",
     "src/content/posts/2025-12-30.md",
     "node_modules/@github/clipboard-copy-element/README.md",
     "node_modules/remark-math/readme.md",
     "node_modules/rehype-katex/readme.md",
     "node_modules/astro-seo/README.md",
     "node_modules/astro-robots-txt/README.md",
-    "node_modules/lint-staged/README.md",
-    "node_modules/lint-staged/MIGRATION.md"
+    "node_modules/lint-staged/README.md"
   ]
 }
